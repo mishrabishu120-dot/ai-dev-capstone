@@ -89,3 +89,9 @@ Do not silently refactor, rename, or reformat unrelated code without explaining 
 - Use meaningful variable names.
 - Write clear commit messages following Conventional Commits.
 - Document important design decisions.
+## Project Rules Learned (Foundation Workflow)
+
+1. Always provide complete requirements before asking AI to generate code.
+2. Verify AI-generated code manually before accepting it.
+3. Include accessibility and edge-case handling as part of every implementation.
+4. Keep project-specific rules documented for future development.

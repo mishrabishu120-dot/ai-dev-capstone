@@ -102,3 +102,6 @@ GitHub: [@mishrabishu120-dot](https://github.com/mishrabishu120-dot)
 - Add project source code
 - Implement additional features
 - Improve documentation with examples
+## Round 1 Notes
+
+This version represents the implementation created using a vague AI prompt with minimal guidance.
