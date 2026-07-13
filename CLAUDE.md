@@ -83,3 +83,9 @@ After editing:
 - Note anything the user should verify manually (e.g. running tests, setting env vars).
 
 Do not silently refactor, rename, or reformat unrelated code without explaining the rationale first.
+## Additional Coding Guidelines
+
+- Keep functions small and modular.
+- Use meaningful variable names.
+- Write clear commit messages following Conventional Commits.
+- Document important design decisions.
